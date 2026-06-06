@@ -2,7 +2,7 @@
   "name": "Controle Paie Combirail",
   "short_name": "Paie",
   "description": "Application de controle du bulletin de paie — offline, confidentiel, 100% local",
-  "start_url": "./app.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
