@@ -6,7 +6,7 @@
 
 const CACHE_NAME    = 'controle-paie-v1';
 const CACHE_ASSETS  = [
-  './app.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
